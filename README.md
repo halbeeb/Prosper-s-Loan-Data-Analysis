@@ -1,4 +1,4 @@
-# (Loan's Data Analysis)
+# Loan's Data Analysis)]
 
 ## by Habeeb Adewale Abdulrasaq
 
@@ -6,6 +6,7 @@
 ## Dataset
 
 > In conducting this analysis, loan dataset from Prosper was used. This loan dataset has 113,937 loan observations and 81 columns/fields which include interest rate, lender yeild, borrower's income, loan close date, credit rating, borrower's occupation, estimated loss, loan tenure, investors and many other field names.
+[This dataset can be accessed through here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) while its [data dictionaries can be accessed through](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing)
 
 > Given a large number of columns, this dataset was subset to include loan amount,borrower APR, borrower rate, occupation, monthly income, loan tenure, rating, employment status, closed date, home owner and lender yield. This dataframe was used for the exploratory analysis, but this exploration there were wrangling steps that were performed to assess and cleaned for its tidiness and messiness.
 
